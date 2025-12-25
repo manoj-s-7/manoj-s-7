@@ -108,9 +108,7 @@ const Manoj = {
 ## 📅 Contribution Calendar - Full Year
 
 <div align="center">
-
-![Metrics](https://raw.githubusercontent.com/manoj-s-7/manoj-s-7/main/github-metrics.svg)
-
+<img src="./metrics.svg" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
