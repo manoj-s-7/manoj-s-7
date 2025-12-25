@@ -1,0 +1,36 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Output file
+          filename: metrics.svg
+
+          # IMPORTANT: keep base empty for exact look
+          base: ""
+
+          # -------- 3D ISO CALENDAR --------
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_layout: full
+          plugin_isocalendar_skipped: false
+
+          # -------- STATS ON RIGHT --------
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+          # -------- CONFIG --------
+          config_timezone: Asia/Kolkata
+          config_display: large
