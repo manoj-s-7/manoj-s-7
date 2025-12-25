@@ -49,19 +49,19 @@ I love building **scalable apps, cloud solutions, and real-world projects**, and
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoj-sys-core&theme=gruvbox&show_icons=true&hide_border=false" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manoj-sys-core&theme=gruvbox&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manoj-s-7&theme=gruvbox&show_icons=true&hide_border=false" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manoj-s-7&theme=gruvbox&hide_border=false" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-sys-core&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
 </p>
 
 ---
 
 ### 🔝 Top Contributed Repos
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manoj-sys-core&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" height="170"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=manoj-s-7&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" height="170"/>
 </p>
 
 ---
