@@ -7,7 +7,7 @@ I love building **scalable apps, cloud solutions, and real-world projects**, and
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/manoj-sys-corex7" target="_blank">
+  <a href="https://linkedin.com/in/manoj-s-x7" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
   </a>
   <a href="https://instagram.com/white._.hatx7" target="_blank">
