@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # daily update
   workflow_dispatch:
 
 permissions:
@@ -16,21 +16,43 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Output
+          # Output file
           filename: metrics.svg
 
-          # Keep base empty for clean 3D look
-          base: ""
+          # Clean layout (important)
+          base: header, repositories
 
-          # --- ISO CALENDAR (3D STYLE) ---
+          # ===============================
+          # 🔷 3D ISO CONTRIBUTION CALENDAR
+          # ===============================
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # --- RIGHT SIDE STATS ---
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
+          # ===============================
+          # 🔷 LANGUAGES (SAFE)
+          # ===============================
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_indepth: no
 
-          # --- CONFIG ---
+          # ===============================
+          # 🔷 STAR & FOLLOWER INFO
+          # ===============================
+          plugin_stargazers: yes
+          plugin_followup: yes
+
+          # ===============================
+          # 🔷 CODING HABITS (SAFE)
+          # ===============================
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # ===============================
+          # 🔷 CONFIG
+          # ===============================
           config_timezone: Asia/Kolkata
           config_display: large
