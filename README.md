@@ -1,69 +1,150 @@
-# 💫 About Me
-Hi, I’m **Manoj S**, a Computer Science Engineering undergraduate and an aspiring Software Developer.  
-I’m currently **training in Full Stack Development & DevOps**, gaining hands-on experience with **Python, JavaScript, React, HTML, CSS, Git, and GitHub**.  
-I love building **scalable apps, cloud solutions, and real-world projects**, and I’m seeking **internships** to grow as a versatile Software Engineer.  
+<img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2NjgwNzIsIm5iZiI6MTc2NjY2Nzc3MiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI1VDEzMDI1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNTBmMDJjMmRkYTcxMTdlNzMxMWY3MTk0Yjk3NWM4MDc5MGE5MjhkNzQwMzhlN2JjZGU3NzA4OTc3MTlmMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YUnbOIrsWKGKvc-B_dfpT4pW3wloaV-5vlxL4BzbQdE" width="1000">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Manoj+S;Backend+Developer+%F0%9F%9A%80;Full+Stack+Enthusiast+%F0%9F%8C%90;Cloud+%26+DevOps+Learner+%E2%98%81%EF%B8%8F;Always+Learning+New+Tech+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/manoj-s-x7" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
-  </a>
-  <a href="https://instagram.com/white._.hatx7" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/>
-  </a>
-  <a href="https://reddit.com/user/manoj-sx7" target="_blank">
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="45"/>
-  </a>
-  <a href="mailto:manojcs6317@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
-  </a>
-</p>
+### 💻 Software Development Engineer (Aspiring) | 🎓 CSE Undergraduate
 
----
+<img src="https://komarev.com/ghpvc/?username=manoj-s-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-## 💻 Tech Stack
-<p align="left">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="45" style="margin-right: 10px;"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45" style="margin-right: 10px;"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="45" style="margin-right: 10px;"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="45" style="margin-right: 10px;"/>
-</p>
+</div>
 
-<p align="left">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="45" style="margin-right: 10px;"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="45" style="margin-right: 10px;"/>
-</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoj-s-7&theme=gruvbox&show_icons=true&hide_border=false" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=manoj-s-7&theme=gruvbox&hide_border=false" height="160"/>
-</p>
+## 🎯 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
-</p>
+```typescript
+const Manoj = {
+    role: "Software Development Engineer (Aspiring)",
+    education: "Computer Science Engineering Undergraduate",
+    currentFocus: ["Backend Development", "Full Stack", "DevOps"],
+    askMeAbout: ["Java", "Spring Boot", "React", "AWS", "PostgreSQL"],
+    technologies: {
+        backend: ["Java", "Spring Boot", "Node.js", "Express.js", "FastAPI"],
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+        cloud: ["AWS", "Docker", "Kubernetes"],
+        tools: ["Git", "GitHub", "VS Code", "Linux"]
+    },
+    currentlyLearning: ["AWS", "Kubernetes", "Spring Boot", "System Design"],
+    lookingFor: "SDE Internship Opportunities 🎯"
+};
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manoj-s-7&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" height="170"/>
-</p>
+## 🛠️ Tech Stack & Tools
 
----
+<div align="center">
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+### 💻 Programming Languages
+
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+
+### 🎨 Frontend Development
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
+<img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
+<img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
+
+### 🗄️ Databases
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manoj-s-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-s-7&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manoj-s-7&theme=tokyonight&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📅 Contribution Calendar - Full Year
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/manoj-s-7/manoj-s-7/main/github-metrics.svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 Featured Project
+
+<div align="center">
+
+[![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=manoj-s-7&repo=EmployeeManagementSystem-Java&theme=tokyonight&hide_border=true)](https://github.com/manoj-s-7/EmployeeManagementSystem-Java)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-manojcs6317%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojcs6317@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-s-x7)
+[![GitHub](https://img.shields.io/badge/GitHub-manoj--s--7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj-s-7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<div align="center">
+
+### ⚡ "First, solve the problem. Then, write the code." – John Johnson
+
+### 💼 Open to SDE Internship Opportunities | Let's build something amazing together! 🚀
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/handshake.gif" width="100">
+
+</div>
