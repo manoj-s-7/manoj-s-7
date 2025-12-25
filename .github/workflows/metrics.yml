@@ -2,8 +2,11 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
@@ -13,24 +16,21 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Output file
+          # Output
           filename: metrics.svg
 
-          # IMPORTANT: keep base empty for exact look
+          # Keep base empty for clean 3D look
           base: ""
 
-          # -------- 3D ISO CALENDAR --------
+          # --- ISO CALENDAR (3D STYLE) ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_layout: full
-          plugin_isocalendar_skipped: false
 
-          # -------- STATS ON RIGHT --------
+          # --- RIGHT SIDE STATS ---
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
-          # -------- CONFIG --------
+          # --- CONFIG ---
           config_timezone: Asia/Kolkata
           config_display: large
