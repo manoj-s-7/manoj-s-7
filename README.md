@@ -119,9 +119,46 @@ const Manoj = {
 
 <div align="center">
 
-[![Employee Management System](https://github-readme-stats.vercel.app/api/pin/?username=manoj-s-7&repo=EmployeeManagementSystem-Java&theme=tokyonight&hide_border=true)](https://github.com/manoj-s-7/EmployeeManagementSystem-Java)
+<table>
+<tr>
+<td width="480" align="center">
+
+<!-- CARD TOP IMAGE -->
+<a href="https://github.com/manoj-s-7/EmployeeManagementSystem-Java">
+  <img
+    src="https://github.com/manoj-s-7/EmployeeManagementSystem-Java/blob/main/assets/dashboard.png?raw=true"
+    alt="Employee Management System Dashboard"
+    width="100%"
+  />
+</a>
+
+<br/><br/>
+
+<!-- CARD CONTENT -->
+<h3>Employee Management System</h3>
+
+<p>
+A professional Java-based desktop application designed to manage
+employee records, roles, and operations with a clean GUI
+and structured backend architecture.
+</p>
+
+<p>
+<b>Tech Stack</b><br/>
+Java · Swing · JDBC · MySQL · Maven
+</p>
+
+<!-- BUTTON -->
+<a href="https://github.com/manoj-s-7/EmployeeManagementSystem-Java">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
