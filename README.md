@@ -1,8 +1,5 @@
 <img src="https://github.com/manoj-s-7/manoj-s-7/blob/main/assets/github-header-banner.png">
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Manoj+S;Backend+Developer+%F0%9F%9A%80;Full+Stack+Enthusiast+%F0%9F%8C%90;Cloud+%26+DevOps+Learner+%E2%98%81%EF%B8%8F;Always+Learning+New+Tech+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 ### 💻 Software Development Engineer (Aspiring) | 🎓 CSE Undergraduate
 
@@ -13,25 +10,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## 🎯 About Me
+## 👋 About Me
 
-```typescript
-const Manoj = {
-    role: "Software Development Engineer (Aspiring)",
-    education: "Computer Science Engineering Undergraduate",
-    currentFocus: ["Backend Development", "Full Stack", "DevOps"],
-    askMeAbout: ["Java", "Spring Boot", "React", "AWS", "PostgreSQL"],
-    technologies: {
-        backend: ["Java", "Spring Boot", "Node.js", "Express.js", "FastAPI"],
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
-        cloud: ["AWS", "Docker", "Kubernetes"],
-        tools: ["Git", "GitHub", "VS Code", "Linux"]
-    },
-    currentlyLearning: ["AWS", "Kubernetes", "Spring Boot", "System Design"],
-    lookingFor: "SDE Internship Opportunities 🎯"
-};
-```
+Hi, I’m **Manoj S** — a Computer Science Engineering undergraduate aspiring to become a **Software Engineer** with a strong interest in **backend, cloud, and DevOps fundamentals**.
+
+I focus on building a solid foundation in:
+- Core programming and problem-solving  
+- Databases and backend concepts  
+- Cloud and DevOps basics (learning-oriented)
+
+I use GitHub as a **learning workspace**, where I practice technologies from the ground up, document my progress, and gradually move toward real-world software engineering workflows.
+
+My long-term goal is to grow into a **reliable backend / cloud engineer** by mastering fundamentals before scaling into complex systems and frameworks.
+
+
+📌 **Currently learning:** PostgreSQL, Java, backend fundamentals  
+📌 **Areas of interest:** Backend systems, cloud platforms, DevOps workflows  
+📌 **Approach:** Fundamentals first · Practical learning · Continuous improvement
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -108,62 +104,6 @@ const Manoj = {
        src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-s-7&layout=compact&langs_count=8&theme=algolia"
        alt="Top Languages"/>
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-## 📅 Contribution Calendar - Full Year
-
-<div align="center">
-<img src="./metrics.svg" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-## 🌟 Featured Project
-
-<div align="center">
-
-<table>
-<tr>
-<td width="480" align="center">
-
-<!-- CARD TOP IMAGE -->
-<a href="https://github.com/manoj-s-7/EmployeeManagementSystem-Java">
-  <img
-    src="https://github.com/manoj-s-7/EmployeeManagementSystem-Java/blob/main/assets/dashboard.png?raw=true"
-    alt="Employee Management System Dashboard"
-    width="100%"
-  />
-</a>
-
-<br/><br/>
-
-<!-- CARD CONTENT -->
-<h3>Employee Management System</h3>
-
-<p>
-A professional Java-based desktop application designed to manage
-employee records, roles, and operations with a clean GUI
-and structured backend architecture.
-</p>
-
-<p>
-<b>Tech Stack</b><br/>
-Java · Swing · JDBC · MySQL · Maven
-</p>
-
-<!-- BUTTON -->
-<a href="https://github.com/manoj-s-7/EmployeeManagementSystem-Java">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
