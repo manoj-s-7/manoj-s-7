@@ -103,6 +103,13 @@ const Manoj = {
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manoj-s-7&theme=tokyonight&hide_border=true" />
 </div>
 
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-s-7&layout=compact&langs_count=8&theme=algolia"
+       alt="Top Languages"/>
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 📅 Contribution Calendar - Full Year
