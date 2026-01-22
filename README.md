@@ -90,17 +90,10 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manoj-s-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-s-7&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manoj-s-7&show_icons=true&theme=algolia&count_private=true" />
 </div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manoj-s-7&theme=tokyonight&hide_border=true" />
-</div>
-
 <p align="center">
-  <img height="180em"
+  <img width="40%" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-s-7&layout=compact&langs_count=8&theme=algolia"
        alt="Top Languages"/>
 </p>
@@ -122,8 +115,6 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 </div>
 
 <div align="center">
-
-### ⚡ "First, solve the problem. Then, write the code." – John Johnson
 
 ### 💼 Open to SDE Internship Opportunities | Let's build something amazing together! 🚀
 
