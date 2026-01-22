@@ -106,8 +106,6 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 
 [![Email](https://img.shields.io/badge/Email-manojcs6317%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojcs6317@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-s-x7)
-[![GitHub](https://img.shields.io/badge/GitHub-manoj--s--7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj-s-7)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
