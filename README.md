@@ -35,55 +35,82 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 
 <div align="center">
 
-### 💻 Programming Languages
+<!-- ===== FRAME START ===== -->
+<div style="
+  max-width: 950px;
+  padding: 28px;
+  border-radius: 16px;
+  background: linear-gradient(145deg, #0f0f0f, #1a1a1a);
+  box-shadow: 0 0 30px rgba(0,0,0,0.6);
+">
 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<table width="100%" cellspacing="24">
 
-### 🎨 Frontend Development
+<tr>
+<td width="50%" align="center">
+  <b>💻 Programming Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
+</td>
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-<img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
-<img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
-<img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+<td width="50%" align="center">
+  <b>🎨 Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui&theme=dark" />
+</td>
+</tr>
 
-### ⚙️ Backend Development
+<tr>
+<td width="50%" align="center">
+  <b>⚙️ Backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+</td>
 
-<img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-<img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-<img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
+<td width="50%" align="center">
+  <b>🗄️ Databases</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase&theme=dark" />
+</td>
+</tr>
 
-### 🗄️ Databases
+<tr>
+<td width="50%" align="center">
+  <b>☁️ Cloud & Containers</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
+</td>
 
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+<td width="50%" align="center">
+  <b>🔧 Tools & Platforms</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git&theme=dark" />
+</td>
+</tr>
 
-### ☁️ Cloud & DevOps
+<tr>
+<td colspan="2" align="center">
+  <b>🧠 JetBrains Ecosystem</b><br/><br/>
 
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://images.icon-icons.com/1381/PNG/512/jetbrainstoolbox_93803.png"
+       alt="JetBrains"
+       width="80" />
+  <br/><br/>
 
-### 🔧 Tools & Platforms
+  <img src="https://images.icon-icons.com/2530/PNG/512/jetbrains_intellij_button_icon_151878.png"
+       alt="IntelliJ IDEA"
+       width="95" />
+  <img src="https://images.icon-icons.com/2530/PNG/512/jetbrains_webstorm_button_icon_151873.png"
+       alt="WebStorm"
+       width="95" />
+  <img src="https://images.icon-icons.com/2530/PNG/512/jetbrains_datagrip_button_icon_151881.png"
+       alt="DataGrip"
+       width="95" />
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+</table>
 
 </div>
+<!-- ===== FRAME END ===== -->
+
+</div>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
