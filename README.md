@@ -116,13 +116,13 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manoj-s-7&show_icons=true&theme=algolia&count_private=true" />
-</div>
-<p align="center">
   <img width="40%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&theme=algolia&hide_border=false&layout=compact"
        alt="Top Languages"/>
-</p>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manoj-s-7&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" />
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
