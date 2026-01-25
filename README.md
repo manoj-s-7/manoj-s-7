@@ -17,14 +17,13 @@ Hi, I’m **Manoj S** — a Computer Science Engineering undergraduate aspiring 
 I focus on building a solid foundation in:
 - Core programming and problem-solving  
 - Databases and backend concepts  
-- Cloud and DevOps basics (learning-oriented)
+- Cloud and DevOps
 
 I use GitHub as a **learning workspace**, where I practice technologies from the ground up, document my progress, and gradually move toward real-world software engineering workflows.
 
 My long-term goal is to grow into a **reliable backend / cloud engineer** by mastering fundamentals before scaling into complex systems and frameworks.
 
 
-📌 **Currently learning:** PostgreSQL, Java, backend fundamentals  
 📌 **Areas of interest:** Backend systems, cloud platforms, DevOps workflows  
 📌 **Approach:** Fundamentals first · Practical learning · Continuous improvement
 
