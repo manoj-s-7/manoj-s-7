@@ -120,7 +120,7 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 </div>
 <p align="center">
   <img width="40%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-s-7&layout=compact&langs_count=8&theme=algolia"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&theme=algolia&hide_border=false&layout=compact"
        alt="Top Languages"/>
 </p>
 
