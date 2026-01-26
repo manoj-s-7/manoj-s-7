@@ -84,12 +84,6 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 <tr>
 <td colspan="2" align="center">
   <b>🧠 JetBrains Ecosystem</b><br/><br/>
-
-  <img src="https://images.icon-icons.com/1381/PNG/512/jetbrainstoolbox_93803.png"
-       alt="JetBrains"
-       width="80" />
-  <br/><br/>
-
   <img src="https://images.icon-icons.com/2530/PNG/512/jetbrains_intellij_button_icon_151878.png"
        alt="IntelliJ IDEA"
        width="95" />
