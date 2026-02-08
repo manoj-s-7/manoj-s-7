@@ -110,7 +110,6 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 ## 📊 GitHub Statistics
 
 <div align="center">
-    <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=manoj-s-7&theme=dark&hide_border=false" />
 </div>
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&layout=compact&theme=dark&hide_border=false" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&theme=dark&hide_border=false" />
