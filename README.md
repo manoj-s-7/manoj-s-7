@@ -60,12 +60,12 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 <tr>
 <td width="50%" align="center">
   <b>⚙️ Backend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" />
 </td>
 
 <td width="50%" align="center">
   <b>🗄️ Databases</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" />
 </td>
 </tr>
 
