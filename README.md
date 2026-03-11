@@ -110,12 +110,15 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=manoj-s-7&theme=midnight-purple&hide_border=false" alt="manoj-s-7's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-s-7&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="manoj-s-7's Top Languages" width="400" />
+  
+  <br/>
 
-</div>
+  <img src="https://streak-stats.demolab.com?user=manoj-s-7&theme=midnight-purple&hide_border=false" alt="manoj-s-7's GitHub Streak" />
 
-<div align="center">
-    <img  alt="manoj-s-7's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/manoj-s-7?cardType=level&theme=midnight-purple&fontFamily=42dot%20Sans&preferLogin=false" />
+  <br/>
+
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/manoj-s-7?cardType=level&theme=midnight-purple&fontFamily=42dot%20Sans&preferLogin=false" alt="manoj-s-7's GitHub Level" />
 </div>
 
 ## 📫 Connect With Me
