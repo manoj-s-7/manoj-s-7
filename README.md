@@ -137,6 +137,4 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 
 ### 💼 Open to SDE Internship Opportunities | Let's build something amazing together! 🚀
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/handshake.gif" width="100">
-
 </div>
