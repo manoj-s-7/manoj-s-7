@@ -60,7 +60,8 @@ My long-term goal is to grow into a **reliable backend / cloud engineer** by mas
 <tr>
 <td width="50%" align="center">
   <b>⚙️ Backend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="50"/>
+  <img src="https://spring.io/img/projects/spring-security.svg" height="48"/>
 </td>
 
 <td width="50%" align="center">
